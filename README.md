@@ -15,7 +15,7 @@ Accept payments directly in your NativeScript app with [iZettle](https://www.ize
 
 ## API
 
-## Payment
+### Creating a payment
 You can use the plugin with JavaScript or TypeScript. In case of the latter, the relevant code is:
 
 ```typescript
